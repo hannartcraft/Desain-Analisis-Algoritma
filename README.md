@@ -1,7 +1,5 @@
 # Tugas Latihan Algoritma dan Pseudocode
 
-## Mari kita bahas satu per satu soal algoritma dan pseudocode ini:
-
 ### 1. Cari nilai KPK dari 3 dan 4
 
 **Algoritma:**
